@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Mychel!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="380" align="right">
 
 <p align="left">
   Sou graduado em Análise e Desenvolvimento de Sistemas pela PUC Minas.
