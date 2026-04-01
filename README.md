@@ -1,4 +1,4 @@
-# 👋 Olá, sou Mychel!
+### 👋 Olá!
 
 Graduado em Análise e Desenvolvimento de Sistemas pela PUC Minas. Atualmente, foco na construção de soluções robustas e escaláveis no ecossistema .NET, com forte interesse em arquitetura de software e automação.
 
