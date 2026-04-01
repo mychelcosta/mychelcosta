@@ -1,8 +1,6 @@
 # 👋 Olá, sou Mychel!
 
-Baseado em Salvador, Bahia, e graduado em Análise e Desenvolvimento de Sistemas pela PUC Minas.
-
-Foco na construção de soluções robustas e escaláveis no ecossistema .NET, com forte interesse em arquitetura de software e automação.
+Graduado em Análise e Desenvolvimento de Sistemas pela PUC Minas. Atualmente, foco na construção de soluções robustas e escaláveis no ecossistema .NET, com forte interesse em arquitetura de software e automação.
 
 ###### Minhas Skills
   
@@ -16,10 +14,3 @@ Foco na construção de soluções robustas e escaláveis no ecossistema .NET, c
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" alt="git" title="Git"/></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/caddy/1F88C0" alt="caddy" title="Caddy"/></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/cloudflare/F38020" alt="cloudflare" title="Cloudflare"/></code>
-
----
-
-### 📫 Vamos nos conectar?
-
-[![E-mail](https://badgen.net/badge/icon/E-mail?label&color=orange)](mailto:mychelcosta@duck.com)
-[![LinkedIn](https://badgen.net/badge/icon/LinkedIn?label&color=blue)](https://www.linkedin.com/in/mychelcosta/)
