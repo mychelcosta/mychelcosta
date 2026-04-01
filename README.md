@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Mychel!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="380" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="380px" align="right">
 
 <p align="left">
   Sou graduado em Análise e Desenvolvimento de Sistemas pela PUC Minas.
@@ -12,6 +12,8 @@
   [![E-mail](https://badgen.net/badge/icon/E-mail?label&color=orange)](mailto:mychelcosta@duck.com)
   [![LinkedIn](https://badgen.net/badge/icon/LinkedIn?label&color=blue)](https://www.linkedin.com/in/mychelcosta/)
 </p>
+
+<div style="clear: both; height: 1px;"></div>
 
 ---
 
