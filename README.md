@@ -1,8 +1,8 @@
-### 👋 Olá!
+**👋 Olá!**
 
 Graduado em Análise e Desenvolvimento de Sistemas pela PUC Minas. Atualmente, foco na construção de soluções robustas e escaláveis no ecossistema .NET, com forte interesse em arquitetura de software e automação.
 
-###### Minhas Skills
+<sub>**Minhas Skills**</sub>
   
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/.net/512BD4" alt="dotnet" title=".NET"/></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" alt="html" title="HTML5"/></code>
