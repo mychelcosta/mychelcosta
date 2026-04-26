@@ -6,7 +6,7 @@ Graduado em Análise e Desenvolvimento de Sistemas pela PUC Minas. Atualmente, f
 
 <img 
     align="left" 
-    alt=".NET"
+    alt="dotnet"
     title=".NET" 
     width="32px" 
     style="padding-right: 10px;" 
@@ -14,31 +14,23 @@ Graduado em Análise e Desenvolvimento de Sistemas pela PUC Minas. Atualmente, f
 />
 <img 
     align="left" 
-    alt="HTML5"
-    title="HTML5" 
+    alt="typescript"
+    title="TypeScript" 
     width="32px" 
     style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/html5/E34F26" 
+    src="https://cdn.simpleicons.org/typescript/3178C6" 
 />
 <img 
     align="left" 
-    alt="CSS"
-    title="CSS" 
+    alt="react"
+    title="React" 
     width="32px" 
     style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/css/663399" 
+    src="https://cdn.simpleicons.org/react/61DAFB" 
 />
 <img 
     align="left" 
-    alt="YAML"
-    title="YAML" 
-    width="32px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/yaml/CB171E" 
-/>
-<img 
-    align="left" 
-    alt="Docker"
+    alt="docker"
     title="Docker" 
     width="32px" 
     style="padding-right: 10px;" 
@@ -54,7 +46,7 @@ Graduado em Análise e Desenvolvimento de Sistemas pela PUC Minas. Atualmente, f
 />
 <img 
     align="left" 
-    alt="Linux"
+    alt="linux"
     title="Linux" 
     width="32px" 
     style="padding-right: 10px;" 
@@ -62,7 +54,7 @@ Graduado em Análise e Desenvolvimento de Sistemas pela PUC Minas. Atualmente, f
 />
 <img 
     align="left" 
-    alt="Git"
+    alt="git"
     title="Git" 
     width="32px" 
     style="padding-right: 10px;" 
@@ -70,17 +62,9 @@ Graduado em Análise e Desenvolvimento de Sistemas pela PUC Minas. Atualmente, f
 />
 <img 
     align="left" 
-    alt="Caddy"
+    alt="caddy"
     title="Caddy" 
     width="32px" 
     style="padding-right: 10px;" 
     src="https://cdn.simpleicons.org/caddy/1F88C0" 
-/>
-<img 
-    align="left" 
-    alt="Cloudflare"
-    title="Cloudflare" 
-    width="32px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/cloudflare/F38020" 
 />
